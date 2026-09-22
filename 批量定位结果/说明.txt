@@ -1,0 +1,5 @@
+1，solve_5equations_fire_new主要用来快速取得较好的定位结果
+2，solve_5equations_fire_high_precision可能慢一些，但是精度高
+3，分好文件夹，分好类，把程序和数据都分门别类装到一个文件夹里效果会好很多！
+
+4，对一组数据不满意可以重新跑！！！！！！！！！

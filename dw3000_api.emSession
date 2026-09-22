@@ -1,0 +1,136 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks>
+  <BookmarkItem objectName="" line="801" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="45" extra="int fprintf(FILE *, const char *, ...);" color="5"/>
+  <BookmarkItem objectName="" line="128" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="24" extra="int sprintf(char *__s, const char *__format, ...);" color="5"/>
+  <BookmarkItem objectName="" line="156" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="25" extra="int snprintf(char *__s, size_t __n, const char *__format, ...);" color="5"/>
+  <BookmarkItem objectName="" line="189" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="26" extra="\b \this is equivalent to \b snprintf with the" color="5"/>
+  <BookmarkItem objectName="" line="192" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="27" extra="int vsnprintf(char *__s, size_t __n, const char *__format, __va_list __arg);" color="5"/>
+  <BookmarkItem objectName="" line="250" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="28" extra="have selected the correct library in the \b{Printf Width/Precision Support}" color="5"/>
+  <BookmarkItem objectName="" line="325" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="29" extra="selected the correct library in the \b{Printf Integer Support} property" color="5"/>
+  <BookmarkItem objectName="" line="334" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="30" extra="the correct library in the \b{Printf Integer Support} property of the" color="5"/>
+  <BookmarkItem objectName="" line="373" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="31" extra="in the \b{Printf Floating Point Support} property of the project if you use" color="5"/>
+  <BookmarkItem objectName="" line="391" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="32" extra="please ensure that you have selected the correct library in the \b{Printf" color="5"/>
+  <BookmarkItem objectName="" line="410" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="33" extra="the \b{Printf Floating Point Support} property of the project if you use" color="5"/>
+  <BookmarkItem objectName="" line="438" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="34" extra="int printf(const char *__format, ...);" color="5"/>
+  <BookmarkItem objectName="" line="455" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="35" extra="\b \this is equivalent to \b printf with the variable argument list" color="5"/>
+  <BookmarkItem objectName="" line="458" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="36" extra="int vprintf(const char *__format, __va_list __arg);" color="5"/>
+  <BookmarkItem objectName="" line="484" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="37" extra="\b \this is equivalent to \b sprintf with the variable argument list" color="5"/>
+  <BookmarkItem objectName="" line="487" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="38" extra="int vsprintf(char *__s, const char *__format, __va_list __arg);" color="5"/>
+  <BookmarkItem objectName="" line="584" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="39" extra="the \b{Printf Integer Support} property of the project if you use this" color="5"/>
+  <BookmarkItem objectName="" line="592" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="40" extra="library in the \b{Printf Integer Support} property of the project if you use" color="5"/>
+  <BookmarkItem objectName="" line="762" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="41" extra="#ifndef __PRINTF_TAG_PTR_DEFINED" color="5"/>
+  <BookmarkItem objectName="" line="763" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="42" extra="#define __PRINTF_TAG_PTR_DEFINED" color="5"/>
+  <BookmarkItem objectName="" line="764" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="43" extra="typedef struct __printf_tag *__printf_tag_ptr;" color="5"/>
+  <BookmarkItem objectName="" line="766" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="44" extra="int __putchar(int, __printf_tag_ptr);" color="5"/>
+  <BookmarkItem objectName="" line="822" column="-1" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" number="46" extra="int vfprintf(FILE *, const char *, __va_list);" color="5"/>
+ </Bookmarks>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="80" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="D:/Src/example_selection.h" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="57" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="Source/main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="135" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="D:/Src/examples/ex_02c_rx_diagnostics/rx_diagnostics.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="114" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="D:/Src/examples/ex_02h_simple_rx_pdoa/simple_rx_pdoa.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="60" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="D:/Src/examples/ex_02h_simple_rx_pdoa/simple_rx_pdoa.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="111" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="D:/Src/examples/ex_01h_simple_tx_pdoa/simple_tx_pdoa.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="50" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="D:/Src/examples/ex_01h_simple_tx_pdoa/simple_tx_pdoa.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="738" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.10a/include/stdio.h" useHWbreakpoint="false"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="dw3000_api" radix="16" sizeText="" addressText="0xFFFF8C90"/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="dw3000_api" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="dw3000_api" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="dw3000_api" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="dw3000_api"/>
+  <ProjectSessionItem path="dw3000_api;dw3000_api"/>
+  <ProjectSessionItem path="dw3000_api;dw3000_api;SEGGER"/>
+  <ProjectSessionItem path="dw3000_api;dw3000_api;Setup"/>
+  <ProjectSessionItem path="dw3000_api;dw3000_api;Source"/>
+  <ProjectSessionItem path="dw3000_api;dw3000_api;Source;platform"/>
+  <ProjectSessionItem path="dw3000_api;dw3000_api;Source;SDK"/>
+  <ProjectSessionItem path="dw3000_api;dw3000_api;Source;SDK;nRF_Drivers"/>
+  <ProjectSessionItem path="dw3000_api;dw3000_api;Source;Shared"/>
+  <ProjectSessionItem path="dw3000_api;dw3000_api;Source;Shared;dw3000"/>
+  <ProjectSessionItem path="dw3000_api;dw3000_api;Source;Shared;dw3720"/>
+  <ProjectSessionItem path="dw3000_api;dw3000_api;Source;Shared;qmath"/>
+  <ProjectSessionItem path="dw3000_api;dw3000_api;System"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="dw3000_api" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="dw3000_api" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="dw3000_api" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="dw3000_api" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="16" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="sdk/modules/nrfx/mdk/ses_startup_nrf_common.s" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="90" useTextEdit="1" openedFrom="D:/Innovation and Practice/UWB/DW3_QM33_SDK_1.0.2/Drivers/API/Shared/dwt_uwb_driver/deca_compat.c" useBinaryEdit="0" left="0" path="Source/platform/port.c" selected="0" top="72" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="227" useTextEdit="1" openedFrom="D:/Innovation and Practice/UWB/DW3_QM33_SDK_1.0.2/Drivers/API/Build_Platforms/nRF52840-DK/Source/main.c" useBinaryEdit="0" left="0" path="sdk/components/boards/boards.c" selected="0" top="212" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="43" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="sdk/modules/nrfx/mdk/system_nrf52840.c" selected="0" top="31" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="9" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="sdk/components/libraries/log/src/nrf_log_frontend.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="397" useTextEdit="1" openedFrom="D:/Innovation and Practice/UWB/DW3_QM33_SDK_1.0.2/Drivers/API/Build_Platforms/nRF52840-DK/Source/platform/port.c" useBinaryEdit="0" left="0" path="sdk/modules/nrfx/drivers/src/nrfx_gpiote.c" selected="0" top="378" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="93" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="sdk/modules/nrfx/drivers/src/prs/nrfx_prs.c" selected="0" top="86" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="sdk/modules/nrfx/drivers/src/nrfx_spi.c" selected="0" top="82" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="sdk/modules/nrfx/mdk/nrf_peripherals.h" selected="0" top="22" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="206" useTextEdit="1" openedFrom="D:/Innovation and Practice/UWB/DW3_QM33_SDK_1.0.2/Drivers/API/Build_Platforms/nRF52840-DK/Source/main.c" useBinaryEdit="0" left="0" path="sdk/components/boards/boards.h" selected="0" top="205" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="10" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="Source/platform/port.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="sdk/integration/nrfx/legacy/nrf_drv_spi.c" selected="0" top="110" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="sdk/components/libraries/util/app_util_platform.c" selected="0" top="15" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="15" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="Source/platform/deca_probe_interface.c" selected="0" top="13" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="490" useTextEdit="1" openedFrom="D:/Innovation and Practice/UWB/DW3_QM33_SDK_1.0.2/Drivers/API/Build_Platforms/nRF52840-DK/sdk/components/boards/boards.c" useBinaryEdit="0" left="0" path="sdk/modules/nrfx/hal/nrf_gpio.h" selected="0" top="477" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="6" y="140" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="SEGGER/SEGGER_RTT.c" selected="0" top="298" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="63" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="SEGGER/SEGGER_RTT.h" selected="0" top="100" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="26" y="130" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="SEGGER/SEGGER_RTT_Conf.h" selected="0" top="125" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="57" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="sdk/modules/nrfx/mdk/ses_startup_nrf52840.s" selected="0" top="42" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="270" useTextEdit="1" openedFrom="D:/Innovation and Practice/UWB/DW3_QM33_SDK_1.0.2/Drivers/API/Src/examples/ex_02h_simple_rx_pdoa/simple_rx_pdoa.c" useBinaryEdit="0" left="0" path="Source/platform/deca_spi.c" selected="0" top="255" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="441" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="sdk/modules/nrfx/drivers/src/nrfx_spim.c" selected="0" top="354" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="559" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="sdk/modules/nrfx/hal/nrf_spim.h" selected="0" top="546" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="Setup/SEGGER_Flash.icf" selected="1" top="42" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="180" useTextEdit="1" openedFrom="D:/Innovation and Practice/UWB/DW3_QM33_SDK_1.0.2/Drivers/API/Build_Platforms/nRF52840-DK/Source/main.c" useBinaryEdit="0" left="0" path="SEGGER/SEGGER_RTT_Syscalls_SES.c" selected="0" top="245" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="331" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="SEGGER/SEGGER_RTT_printf.c" selected="0" top="268" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="106" useTextEdit="1" openedFrom="D:/Innovation and Practice/UWB/DW3_QM33_SDK_1.0.2/Drivers/API/Src/examples/ex_02k_simple_rx_cir/simple_rx_cir.c" useBinaryEdit="0" left="0" path="Source/main.c" selected="0" top="64" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="15116" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="Output/Debug/Exe/dw3000_api.map" selected="0" top="15100" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="sdk/modules/nrfx/drivers/src/nrfx_clock.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="sdk/integration/nrfx/legacy/nrf_drv_clock.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="Source/platform/deca_spi.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="Source/platform/deca_sleep.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="sdk/components/libraries/atomic/nrf_atomic.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="D:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 5.60a/source/thumb_crt0.s" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="Source/platform/deca_mutex.c" selected="0" top="0" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="dw3000_api" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="D:/Innovation and Practice/UWB/DW3_QM33_SDK_1.0.2/Drivers/API/Build_Platforms/nRF52840-DK/Backup" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
