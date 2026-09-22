@@ -22,8 +22,18 @@
 ├── SEGGER/                      SEGGER RTT 调试输出库
 ├── Setup/                       SEGGER 链接脚本
 ├── Backup/                      接收端固件实验版本（simple_rx_cir_v1~v4 等）
-├── dw3000_api.emProject         SEGGER Embedded Studio 工程文件
+│
+├── matlab/                      MATLAB 脚本（*.mlx 实时脚本 / *.m 函数）
+├── docs/                        说明与笔记（算法推导、解析说明）
+├── 结果输出/                     散落的结果输出（角度估计 txt、峰值分析 mat）
+├── media/                       【本地保留】实验录像与音频素材
+│
+├── dw3000_api.emProject         SEGGER Embedded Studio 工程文件（构建入口）
+├── dw3000_api.emSession         IDE 会话
+├── dw3000_api_Debug.jlink       J-Link 调试配置
+├── flash_placement.xml          链接配置
 ├── build.py                     批量编译测试脚本
+├── README.md / README.txt       项目说明 / 厂商原始说明
 │
 ├── Data/                        【本地保留】原始采集数据（CIR / RTT 原始日志）
 ├── Video/                       【本地保留】实验过程录像
@@ -46,6 +56,7 @@
 ```
 
 > 标记【本地保留】的目录因体积或授权原因未纳入版本管理，见 `.gitignore`。
+> 个人材料（学生名单、个人备注、IDE 本地配置）已移出本工程，存放于 `../_personal/nRF52840-DK/`。
 
 ## 编译
 
@@ -85,5 +96,7 @@ overdetermined_equations/              多径几何方程组求解
 
 ## 说明
 
-- MATLAB 脚本使用 `.\Data\...` 形式的**相对路径**，请在工程根目录下运行。
+- MATLAB 脚本使用 `.\Data\...` 形式的**相对路径**，请在**工程根目录**下运行 MATLAB。
+  脚本与函数已归入 `matlab/`，首次使用先执行 `addpath('matlab')` 以解析函数调用。
+- `结果输出/`（根目录散落的结果）与 `result/`（角度标定）是两个不同目录，勿混淆。
 - `sdk/`（Nordic nRF5 SDK）与 `Source/` 中的 SEGGER / Decawave 移植代码版权归各自厂商所有，分发需遵守其许可协议。
